@@ -1,4 +1,4 @@
-#this is a hello world code
+//this is a hello world code
 #include<bits/stdc++.h>
 using namepsace std;
 
